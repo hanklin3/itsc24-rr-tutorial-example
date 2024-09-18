@@ -1,0 +1,10 @@
+{'commit_hash': '4e1d3e557',
+ 'commit_source': 'installation',
+ 'default_encoding': 'utf-8',
+ 'ipython_path': '/home/hanklin/.local/lib/python3.10/site-packages/IPython',
+ 'ipython_version': '8.12.3',
+ 'os_name': 'posix',
+ 'platform': 'Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35',
+ 'sys_executable': '/usr/bin/python3',
+ 'sys_platform': 'linux',
+ 'sys_version': '3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0]'}
